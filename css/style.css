@@ -1,0 +1,10 @@
+.sideBar{
+    width: 300px;
+    background-color: aqua;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+}
+.main{
+    margin-left: 300px;
+}
